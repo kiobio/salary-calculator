@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+    
+}
+}
+
+.input div{
+    width:120px;
+    height:50px;
+}
+
+#final{
+    color: blueviolet;
+}
